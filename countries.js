@@ -192,7 +192,7 @@ const codes = [
   'WS',
   'SM',
   'ST',
-  'saudi',
+  'sark',
   'SA',
   'SN',
   'RS',
